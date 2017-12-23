@@ -1,6 +1,7 @@
 @extends('layout.master')
 
 @section('content')
+    <!--change-->
     <!-- Page header -->
     <section class="job-bg page job-list-page">
         <div class="container">
